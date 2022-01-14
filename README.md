@@ -1,5 +1,5 @@
 # Resonance-Toolbox
-This repository maintains the complete list of resources to complete the resonance mechanism.
+This repository maintains the complete list of resources to compute the resonance mechanism.
 
 The below figure depicts two objects with oscillatory properties, such as persons. The link shows a relationship between the property of one object to another. The linkage between property would define the relationship, and depending on the relationship obtained, a type of resonance can be defined.
 
