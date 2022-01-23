@@ -5,22 +5,22 @@ The below figure depicts two objects with oscillatory properties, such as person
 
 <img src="/Images/main_resonance.png">
 
-Resonance is an observable physical phenomenon in brain imaging studies. 
+We aim to create a framework for the measurement and analysis used to decode the brain oscillations in naturalistic scenarios. Insofar as naturalistic stimuli are also captured, they can be compared to the concurrent brain oscillations. Entrainment and resonance are theoretically informed mechanisms describing how subjects are likely to respond to naturalistic stimuli that is oscillatory in nature. A framework of resonance/entrainment can therefore inform how the brain will respond to stimuli in naturalistic scenarios. Measures of entrainment and resonance can be assembled and applied to existing datasets and then used to inform the production of new datasets.
 
-| Operational measurements  | 
+
+| External Entrainment  | 
 | ------------- | 
 | Stimulus-Response Correlation | 
 | Inter-Subject Correlation |
-| Entrainment|
+| Brain to Brain Synchrony|
 
-
-I have compiled the techniques that can be used to compute the resonance effects.
-
-
-| Metric  | 
+| Internal Entrainment  | 
 | ------------- | 
-| Canoncial Correlation Analysis | 
-| Cross-Correlation |
-| Phase-Locking Value |
+| Varying breathing speeds and their relationship with neural physiology| 
+| Rest and Meditating|
+| Thoughts amplifies the certain frequencies|
+
+
+
 
 
