@@ -18,7 +18,7 @@ We aim to create a framework for the measurement and analysis used to decode the
 | ------------- | 
 | Varying breathing speeds and their relationship with neural physiology| 
 | Rest and Meditating|
-| Thoughts amplifies the certain frequencies|
+| Thoughts amplify the certain frequencies|
 
 
 
