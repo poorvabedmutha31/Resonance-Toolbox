@@ -12,7 +12,7 @@ We aim to create a framework for the measurement and analysis used to decode the
 | ------------- | 
 | Stimulus-Response Correlation | 
 | Inter-Subject Correlation |
-| Brain to Brain Synchrony|
+| Brain2Brain Synchrony|
 
 | Internal Entrainment  | 
 | ------------- | 
