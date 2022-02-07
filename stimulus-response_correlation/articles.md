@@ -62,7 +62,13 @@
       <li>Phase Scrambled</li>
     </ul>
   </td>
-  <td>&nbsp;</td>
+  <td>
+    <ul>
+      <li>Magnitude Envelope Fluctuations</li>
+      <li>Beat Onset Times</li>
+      <li>Measure Boundary Times</li>
+    </ul>
+  </td>
 </tr>
 
 <tr>
@@ -241,7 +247,7 @@
 <tr>
   <td><a href = 'http://ieeexplore.ieee.org/document/6482644/'>
     Linking Brain Responses To Naturalistic Music Through Analysis Of Ongoing EEG And Stimulus Features</a></td>
-  <td>2013, IEEE TRANSACTIONS ON MULTIMEDIA</td>
+  <td>2013, IEEE Transactions on Multimedia</td>
   <td>EEG</td>
   <td>Entire musical piece of modern 8.5-minute tango<br>- Astor Piazzolla<br>Recorded in a concert in Lausanne, Switzerland</td>
   <td>Tonal and rhythmic features <a href = 'https://pubmed.ncbi.nlm.nih.gov/22116038/'>[1]</a>: <br> 
@@ -261,7 +267,19 @@
   <td>Journal of Neuroscience Methods, 2018</td>
   <td>fMRI</td>
   <td>Entire musical piece of modern 8.5-minute tango<br>- Astor Piazzolla<br>Recorded in a concert in Lausanne, Switzerland</td>
-  <td>25 features <a href = 'https://pubmed.ncbi.nlm.nih.gov/22116038/'>[1]</a></td>
+  <td>
+    <ul>
+      <li>Fullness</li>
+      <li>Brightness</li>
+      <li>Timbral Complexity</li>
+      <li>Activity</li>
+      <li>Rhythmic Complexity</li>
+      <li>Event Synchronicity</li>
+      <li>Pulse Clarity</li>
+      <li>Key Clarity</li>
+      <li>Mode</li>
+    </ul>
+  </td>
 </tr>
 
 <tr>
